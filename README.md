@@ -4,5 +4,5 @@ Script de instalacion de Eduroam para alumnos de la UPM , se puede descargar el 
 ## Para que funcione el script
  
  ```sh
- pip`3 install dbus-python
+ pip3 install dbus-python
  ```
